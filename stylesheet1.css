@@ -1,0 +1,260 @@
+@media screen and ( min-width:1200px) and (max-width: 1920px) {
+:root{
+        font-size: 15px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:grey;
+    font-family:Comic Sans MS;
+    font-size:2rem;
+    
+}
+
+li {
+
+    font-size:2rem;
+    font-family:Comic Sans MS;
+
+}
+.img{
+    
+	order: -1;
+    padding:1em;
+    width: 25vw;
+    height: 25vw;
+padding-right:0; 
+}
+#whoami{
+	padding:1em;
+
+}
+
+li a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-size:2rem;
+    font-family:Comic Sans MS;
+}
+
+li a:hover {
+    background-color: #111111;
+    font-size:2rem;
+    font-family:Comic Sans MS;
+}
+
+
+
+div.new,div.name,header{
+    color:white;
+    margin-left:10px; 
+    padding: .5em;
+    font-size:2rem;
+    font-family:Comic Sans MS;
+}
+#right{
+color:black;
+float:right;
+padding:1em;
+/* margin-left:32vw; */
+ 
+color:white;
+font-family:Comic Sans MS;
+font-size:2rem;
+}
+h1 {
+    margin:0px;
+}
+div.container{	 
+ background-size: contain;
+background-image: url('https://preview.ibb.co/hs6oAG/1.jpg" alt="1');
+color:white; 
+font-size:2rem;
+
+font-family:Comic Sans MS;
+}
+div.container1{
+    color: white;
+    font-size:2.6vw;
+    font-style:Comic Sans MS; 
+    padding:.5em;
+    height: 300px;
+    width :40%;
+    margin-left:10vh;
+}
+div.container2{
+    color: white;
+    font-size:2.3vw;
+    font-style:Comic Sans MS; 
+    padding: .5em;
+    height: 300px;
+    width :40%;
+    margin-left:10vh;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 2vw;
+}
+div.container3{
+    margin-top:3vh;
+	color: white;
+    font-size:2.5vw;
+    font-style:Comic Sans MS; 
+    height: 300px;
+    width :40%;
+    margin-left:10vh;
+}
+div.container4{
+	color: white;
+    font-size:2.5vw;
+    font-style:Comic Sans MS; 
+    padding:.5em;
+    height: 300px;
+    width :40%;
+   margin-left:15vh  
+
+}
+.parent{
+    display: flex;
+   flex-wrap: wrap;
+   width: 100%;
+}
+
+} 
+@media screen and ( min-width:480px) and (max-width: 1200px) {
+    :root{
+            font-size: 15px;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color:grey;
+        font-family:Comic Sans MS;
+        font-size:2rem;
+        
+    }
+    
+    li {
+    
+        font-size:2rem;
+        font-family:Comic Sans MS;
+    
+    }
+    .img{
+        
+        order: -1;
+        padding:1em;
+        width: 25vw;
+        height: 25vw;
+    padding-right:0; 
+    }
+    #whoami{
+        padding:1em;
+    
+    }
+    
+    li a {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 16px;
+        text-decoration: none;
+        font-size:2rem;
+        font-family:Comic Sans MS;
+    }
+    
+    li a:hover {
+        background-color: #111111;
+        font-size:2rem;
+        font-family:Comic Sans MS;
+    }
+    
+    
+    
+    div.new,div.name,header{
+        color:white;
+        margin-left:10px; 
+        padding: .5em;
+        font-size:2rem;
+        font-family:Comic Sans MS;
+    }
+    #right{
+    color:black;
+    float:right;
+    padding:1em;
+    /* margin-left:32vw; */
+     
+    color:white;
+    font-family:Comic Sans MS;
+    font-size:2rem;
+    }
+    h1 {
+        margin:0px;
+    }
+    div.container{	 
+     background-size: contain;
+    background-image: url('https://preview.ibb.co/hs6oAG/1.jpg" alt="1');
+    color:white; 
+    font-size:2rem;
+    
+    font-family:Comic Sans MS;
+    }
+    div.container1{
+        color: white;
+        font-size:2.6vw;
+        font-style:Comic Sans MS; 
+        padding:.5em;
+        height: 300px;
+        width :100%;
+        margin-left:10vh;
+    }
+    div.container2{
+        color: white;
+        font-size:2.3vw;
+        font-style:Comic Sans MS; 
+        padding: .5em;
+        height: 300px;
+        width :100%;
+        margin-left:10vh;
+    }
+    .container {
+        display: flex;
+        flex-direction: column;
+        margin: 2vw;
+    }
+    div.container3{
+        margin-top:3vh;
+        color: white;
+        font-size:2.5vw;
+        font-style:Comic Sans MS; 
+        height: 300px;
+        width :100%;
+        margin-left:10vh;
+    }
+    div.container4{
+        color: white;
+        font-size:2.5vw;
+        font-style:Comic Sans MS; 
+        padding:.5em;
+        height: 300px;
+        width :100%;
+       margin-left:10vh  
+    
+    }
+    .parent{
+        display: flex;
+       flex-wrap: wrap;
+       width: 100%;
+    }
+    
+    } 
